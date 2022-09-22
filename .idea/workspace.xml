@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3831532e-0055-4c40-98d1-1e5d667a72ac" name="Changes" comment="lesson3">
-      <change beforePath="$PROJECT_DIR$/src/lesson3_1.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3831532e-0055-4c40-98d1-1e5d667a72ac" name="Changes" comment="lesson3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,13 +20,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_3" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2EwjtzlBQNwLAS5DmaJn3n3wmIu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663862367017</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson3">
+      <created>1663862869515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663862869515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
